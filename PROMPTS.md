@@ -1,0 +1,1 @@
+"I am making a website which is dev conference. This website have navbar, headers, meet the speakers, spot booking section and footer section. suggest me additional what section can I add in my website"
